@@ -13,18 +13,18 @@ const Home = () => {
 					className="border-2 flex justify-between px-10 text-4xl font-bold py-2 relative"
 					id="TotalSiswa">
 					<div id="AngkaGradientBlue" className="flex items-center justify-center ">
-						25
+						10
 					</div>
 					<div className="">
 						<span id="AngkaGradientBlue" className="text-5xl">
 							3
 						</span>
 						<span id="AngkaGradientPink" className="text-5xl">
-							7
+							3
 						</span>
 					</div>
 					<div id="AngkaGradientPink" className="flex items-center justify-center">
-						12
+						23
 					</div>
 				</div>
 
@@ -47,7 +47,7 @@ const Home = () => {
 						WELCOME
 					</h1>
 					<h6 className="text-sm" style={{ letterSpacing: "5px" }}>
-						TO XII TKJ 3
+						TO XII IPA 2
 					</h6>
 				</div>
 			</div>
