@@ -27,7 +27,7 @@ const Schedule = () => {
         ["Putri", "Paulista", "Firdaus", "Attala", "Ardian"],
         ["Cariska", "Nila", "Wahid", "Togi", "Annisa"],
         ["Sultan", "Zaini", "Fajri", "Arif"],
-        ["Sultan", "Zaini", "Fajri", "Arif"],
+        ["Siswa", "Siswa", "Siswa", "Siswa"],
     ]
 
     const dayComponents = [
